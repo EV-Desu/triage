@@ -1,3 +1,21 @@
+
+  .dark {
+    --color_background:#2C2828;
+    --color_foreground:#3B2C85;
+    --color_primary:#219897;
+    --color_secondary:#85CFCB;
+  }
+  .light{
+    --color_background:#ffffff;
+    --color_foreground:#e3edf0;
+    --color_primary:#219897;
+    --color_secondary:#85CFCB;
+  }
+  
+    
+  
+
+
 .pageTitle {
   margin: 0;
   line-height: 1.15;
@@ -23,7 +41,7 @@
   width: 200px;
   padding: 0.2rem 1rem;
   margin: 0.5rem;
-  background: #ffff00;
+  background: #a0f9ff;
   box-shadow: 4px 4px 8px 1px #00000075;
   border-radius: 2px;
 }
